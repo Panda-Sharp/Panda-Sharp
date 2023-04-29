@@ -1,16 +1,23 @@
-### Hi there 👋
+## Hi there 👋
+#### I'm PandaSharp 🐼 A passionate UWP Developer
+
+## My main repositories have been moved here:
+[Yugen-Apps](https://github.com/orgs/Yugen-Apps/)
+
+## Connect with me:
+- [LinkedIn](https://www.linkedin.com/in/emilianomagliocca/)
+- [Twitter](https://twitter.com/PandaSharp_)
+
+## My walkthroughs
+- [CI/CD UWP: Build, Sign with certificate, Release to App Center and Store with Azure Pipelines](https://panda-sharp.github.io/Yugen.Toolkit.Docs/articles/walkthroughs/uwp-azure-pipeline.html)
+- [CI/CD Publish DocFx to Github Pages with GitHub Actions](https://panda-sharp.github.io/Yugen.Toolkit.Docs/articles/walkthroughs/docfx-github-actions.html)
+- [CI/CD Build Nuget Packages and Publish to GitHub Packages with GitHub Actions](https://panda-sharp.github.io/Yugen.Toolkit.Docs/articles/walkthroughs/nuget-github-actions.html)
+- [Getting Started with DocFX, .Net Solution, Powershell and Github Pages](https://panda-sharp.github.io/Yugen.Toolkit.Docs/articles/walkthroughs/docfx.html)
+
+## Stats
+
+[![github stats](https://github-readme-stats.vercel.app/api?username=Panda-Sharp)](https://github.com/Panda-Sharp)
 
 <!--
-**emiliano84/emiliano84** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+[![github stats](https://github-readme-stats.vercel.app/api/top-langs?username=Panda-Sharp)](https://github.com/Panda-Sharp)
 -->
